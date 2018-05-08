@@ -1,2 +1,2 @@
-# de
-Differential Evolution Algorithm in Octave
+# Differential Evolution Algorithm
+Differential Evolution algorithm for Octave environment.
